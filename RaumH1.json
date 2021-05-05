@@ -71,7 +71,7 @@
         {
          "columns":1,
          "firstgid":1,
-         "image":"C:\/Users\/Dennis\/Desktop\/Images\/StangeUntenMitBoden.png",
+         "image":"StangeUntenMitBoden.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -84,7 +84,7 @@
         {
          "columns":1,
          "firstgid":2,
-         "image":"C:\/Users\/Dennis\/Desktop\/Images\/BodenTreppe.png",
+         "image":"BodenTreppe.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -97,7 +97,7 @@
         {
          "columns":1,
          "firstgid":3,
-         "image":"C:\/Users\/Dennis\/Desktop\/Images\/StangeObenMitBoden.png",
+         "image":"StangeObenMitBoden.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -110,7 +110,7 @@
         {
          "columns":1,
          "firstgid":4,
-         "image":"C:\/Users\/Dennis\/Desktop\/Images\/TreppeEcke.png",
+         "image":"TreppeEcke.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -123,7 +123,7 @@
         {
          "columns":1,
          "firstgid":5,
-         "image":"C:\/Users\/Dennis\/Desktop\/Images\/BodenMitStange.png",
+         "image":"BodenMitStange.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -136,7 +136,7 @@
         {
          "columns":1,
          "firstgid":6,
-         "image":"C:\/Users\/Dennis\/Desktop\/Images\/trak2_holes1_32x32.png",
+         "image":"trak2_holes1_32x32.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -149,7 +149,7 @@
         {
          "columns":1,
          "firstgid":7,
-         "image":"C:\/Users\/Dennis\/Desktop\/Images\/BodenWenigGummy.png",
+         "image":"BodenWenigGummy.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -162,7 +162,7 @@
         {
          "columns":2,
          "firstgid":8,
-         "image":"C:\/Users\/Dennis\/Desktop\/Images\/Tafel.png",
+         "image":"Tafel.png",
          "imageheight":128,
          "imagewidth":64,
          "margin":0,
@@ -175,7 +175,7 @@
         {
          "columns":3,
          "firstgid":16,
-         "image":"C:\/Users\/Dennis\/Desktop\/Images\/Tische2.jpeg",
+         "image":"Tische2.jpeg",
          "imageheight":96,
          "imagewidth":96,
          "margin":0,
@@ -188,7 +188,7 @@
         {
          "columns":16,
          "firstgid":25,
-         "image":"C:\/Users\/Dennis\/Desktop\/Images\/maps_Floor2_general.png",
+         "image":"maps_Floor2_general.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -201,7 +201,7 @@
         {
          "columns":16,
          "firstgid":281,
-         "image":"C:\/Users\/Dennis\/Desktop\/Images\/maps_Floor0_walls2.png",
+         "image":"maps_Floor0_walls2.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -214,7 +214,7 @@
         {
          "columns":8,
          "firstgid":537,
-         "image":"..\/testMap-master\/floortileset.png",
+         "image":"floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
