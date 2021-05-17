@@ -91,7 +91,7 @@
                 {
                  "name":"playAudio",
                  "type":"file",
-                 "value":"..\/music\/mindmapthat_-_Blue_Sky_Blues.mp3"
+                 "value":"music\/mindmapthat_-_Blue_Sky_Blues.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -280,7 +280,7 @@
         {
          "columns":1,
          "firstgid":1,
-         "image":"..\/images\/map\/StangeUntenMitBoden.png",
+         "image":"images\/map\/StangeUntenMitBoden.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -293,7 +293,7 @@
         {
          "columns":1,
          "firstgid":2,
-         "image":"..\/images\/map\/BodenTreppe.png",
+         "image":"images\/map\/BodenTreppe.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -306,7 +306,7 @@
         {
          "columns":1,
          "firstgid":3,
-         "image":"..\/images\/map\/StangeObenMitBoden.png",
+         "image":"images\/map\/StangeObenMitBoden.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -319,7 +319,7 @@
         {
          "columns":1,
          "firstgid":4,
-         "image":"..\/images\/map\/TreppeEcke.png",
+         "image":"images\/map\/TreppeEcke.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -332,7 +332,7 @@
         {
          "columns":1,
          "firstgid":5,
-         "image":"..\/images\/map\/BodenMitStange.png",
+         "image":"images\/map\/BodenMitStange.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -345,7 +345,7 @@
         {
          "columns":1,
          "firstgid":6,
-         "image":"..\/images\/map\/trak2_holes1_32x32.png",
+         "image":"images\/map\/trak2_holes1_32x32.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -358,7 +358,7 @@
         {
          "columns":2,
          "firstgid":7,
-         "image":"..\/images\/map\/Tafel.png",
+         "image":"images\/map\/Tafel.png",
          "imageheight":128,
          "imagewidth":64,
          "margin":0,
@@ -371,7 +371,7 @@
         {
          "columns":16,
          "firstgid":15,
-         "image":"..\/images\/map\/maps_Floor2_general.png",
+         "image":"images\/map\/maps_Floor2_general.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -394,7 +394,7 @@
         {
          "columns":16,
          "firstgid":271,
-         "image":"..\/images\/map\/maps_Floor0_walls2.png",
+         "image":"images\/map\/maps_Floor0_walls2.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -407,7 +407,7 @@
         {
          "columns":8,
          "firstgid":527,
-         "image":"..\/images\/map\/floortileset.png",
+         "image":"images\/map\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -439,7 +439,7 @@
         {
          "columns":2,
          "firstgid":565,
-         "image":"..\/images\/map\/Tische3.png",
+         "image":"images\/map\/Tische3.png",
          "imageheight":32,
          "imagewidth":64,
          "margin":0,
@@ -452,7 +452,7 @@
         {
          "columns":1,
          "firstgid":567,
-         "image":"..\/images\/map\/Collision32x32.png",
+         "image":"images\/map\/Collision32x32.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -475,7 +475,7 @@
         {
          "columns":1,
          "firstgid":568,
-         "image":"..\/images\/map\/T\u00fcr_Schwarz3.png",
+         "image":"images\/map\/T\u00fcr_Schwarz3.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
@@ -488,7 +488,7 @@
         {
          "columns":1,
          "firstgid":570,
-         "image":"..\/images\/map\/Waschbecken.png",
+         "image":"images\/map\/Waschbecken.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -501,7 +501,7 @@
         {
          "columns":1,
          "firstgid":571,
-         "image":"..\/images\/map\/T\u00fcr_Wei\u00df.png",
+         "image":"images\/map\/T\u00fcr_Wei\u00df.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -514,7 +514,7 @@
         {
          "columns":1,
          "firstgid":572,
-         "image":"..\/images\/map\/Mute_Zeichen.png",
+         "image":"images\/map\/Mute_Zeichen.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -527,7 +527,7 @@
         {
          "columns":1,
          "firstgid":573,
-         "image":"..\/images\/map\/KameraOff.png",
+         "image":"images\/map\/KameraOff.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -540,7 +540,7 @@
         {
          "columns":1,
          "firstgid":574,
-         "image":"..\/images\/map\/MusikZeichen.png",
+         "image":"images\/map\/MusikZeichen.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -553,7 +553,7 @@
         {
          "columns":1,
          "firstgid":575,
-         "image":"..\/images\/map\/Stange_Rechts.png",
+         "image":"images\/map\/Stange_Rechts.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -566,7 +566,7 @@
         {
          "columns":1,
          "firstgid":576,
-         "image":"..\/images\/map\/Stange_Rechts.png",
+         "image":"images\/map\/Stange_Rechts.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -579,7 +579,7 @@
         {
          "columns":1,
          "firstgid":577,
-         "image":"..\/images\/map\/Informationstafel2.png",
+         "image":"images\/map\/Informationstafel2.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -592,7 +592,7 @@
         {
          "columns":1,
          "firstgid":578,
-         "image":"..\/images\/map\/Wei\u00dfeLinie.png",
+         "image":"images\/map\/Wei\u00dfeLinie.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -605,7 +605,7 @@
         {
          "columns":1,
          "firstgid":579,
-         "image":"..\/images\/map\/wei\u00dfFlaeche.png",
+         "image":"images\/map\/wei\u00dfFlaeche.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
