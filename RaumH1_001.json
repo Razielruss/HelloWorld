@@ -98,7 +98,7 @@
                 {
                  "name":"playAudio",
                  "type":"file",
-                 "value":"..\/music\/mindmapthat_-_Blue_Sky_Blues.mp3"
+                 "value":"mindmapthat_-_Blue_Sky_Blues.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -259,7 +259,7 @@
         {
          "columns":1,
          "firstgid":1,
-         "image":"..\/images\/map\/StangeUntenMitBoden.png",
+         "image":"StangeUntenMitBoden.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -272,7 +272,7 @@
         {
          "columns":1,
          "firstgid":2,
-         "image":"..\/images\/map\/BodenTreppe.png",
+         "image":"BodenTreppe.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -285,7 +285,7 @@
         {
          "columns":1,
          "firstgid":3,
-         "image":"..\/images\/map\/StangeObenMitBoden.png",
+         "image":"StangeObenMitBoden.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -298,7 +298,7 @@
         {
          "columns":1,
          "firstgid":4,
-         "image":"..\/images\/map\/TreppeEcke.png",
+         "image":"TreppeEcke.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -311,7 +311,7 @@
         {
          "columns":1,
          "firstgid":5,
-         "image":"..\/images\/map\/BodenMitStange.png",
+         "image":"BodenMitStange.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -324,7 +324,7 @@
         {
          "columns":1,
          "firstgid":6,
-         "image":"..\/images\/map\/trak2_holes1_32x32.png",
+         "image":"trak2_holes1_32x32.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -337,7 +337,7 @@
         {
          "columns":1,
          "firstgid":7,
-         "image":"..\/images\/map\/BodenWenigGummy.png",
+         "image":"BodenWenigGummy.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -350,7 +350,7 @@
         {
          "columns":2,
          "firstgid":8,
-         "image":"..\/images\/map\/Tafel.png",
+         "image":"Tafel.png",
          "imageheight":128,
          "imagewidth":64,
          "margin":0,
@@ -363,7 +363,7 @@
         {
          "columns":16,
          "firstgid":16,
-         "image":"..\/images\/map\/maps_Floor2_general.png",
+         "image":"maps_Floor2_general.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -386,7 +386,7 @@
         {
          "columns":16,
          "firstgid":272,
-         "image":"..\/images\/map\/maps_Floor0_walls2.png",
+         "image":"maps_Floor0_walls2.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -399,7 +399,7 @@
         {
          "columns":8,
          "firstgid":528,
-         "image":"..\/images\/map\/floortileset.png",
+         "image":"floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -431,7 +431,7 @@
         {
          "columns":2,
          "firstgid":566,
-         "image":"..\/images\/map\/Tische3.png",
+         "image":"Tische3.png",
          "imageheight":32,
          "imagewidth":64,
          "margin":0,
@@ -444,7 +444,7 @@
         {
          "columns":1,
          "firstgid":568,
-         "image":"..\/images\/map\/Collision32x32.png",
+         "image":"Collision32x32.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -467,7 +467,7 @@
         {
          "columns":1,
          "firstgid":569,
-         "image":"..\/images\/map\/T\u00fcr_Schwarz3.png",
+         "image":"T\u00fcr_Schwarz3.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
@@ -480,7 +480,7 @@
         {
          "columns":1,
          "firstgid":571,
-         "image":"..\/images\/map\/Waschbecken.png",
+         "image":"Waschbecken.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -493,7 +493,7 @@
         {
          "columns":1,
          "firstgid":572,
-         "image":"..\/images\/map\/T\u00fcr_Wei\u00df.png",
+         "image":"T\u00fcr_Wei\u00df.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -506,7 +506,7 @@
         {
          "columns":1,
          "firstgid":573,
-         "image":"..\/images\/map\/Mute_Zeichen.png",
+         "image":"Mute_Zeichen.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -519,7 +519,7 @@
         {
          "columns":1,
          "firstgid":574,
-         "image":"..\/images\/map\/KameraOff.png",
+         "image":"KameraOff.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -532,7 +532,7 @@
         {
          "columns":1,
          "firstgid":575,
-         "image":"..\/images\/map\/MusikZeichen.png",
+         "image":"MusikZeichen.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -545,7 +545,7 @@
         {
          "columns":1,
          "firstgid":576,
-         "image":"..\/images\/map\/Stange_Rechts.png",
+         "image":"Stange_Rechts.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -558,7 +558,7 @@
         {
          "columns":1,
          "firstgid":577,
-         "image":"..\/images\/map\/Stange_Rechts.png",
+         "image":"Stange_Rechts.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -571,7 +571,7 @@
         {
          "columns":1,
          "firstgid":578,
-         "image":"..\/images\/map\/Informationstafel2.png",
+         "image":"Informationstafel2.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
